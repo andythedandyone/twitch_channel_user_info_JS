@@ -1,0 +1,31 @@
+body {
+    background-color: #008B8B;
+}
+
+#header {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#divC {
+    margin: auto;
+    width: 60%;
+}
+
+.title {
+    font-size: 100px;
+}
+
+.search {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.displaySearch {
+    margin: auto;
+    margin-top: 20px;
+    width: 58%;
+}
